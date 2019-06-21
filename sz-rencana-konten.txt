@@ -1,6 +1,9 @@
 RENCANA KONTEN SZ
+
 - Makan Nasi Goreng
   * Pake telor dadar
   * Sambelnya pedes banget
 - Minum jus alpukat
+  * Pake batu es
+  * Pake susu kental manis
 - Bikin video PHP Framework
