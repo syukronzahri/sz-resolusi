@@ -1,0 +1,4 @@
+RENCANA KONTEN SZ
+- Makan Nasi Goreng
+- Minum jus alpukat
+- Bikin video PHP Framework
